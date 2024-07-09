@@ -1,0 +1,11 @@
+/ecommerce
+  ├── index.html
+  ├── products.html
+  ├── product.html
+  ├── css
+  │    └── styles.css
+  └── images
+       ├── logo.png
+       ├── product1.jpg
+       ├── product2.jpg
+       └── product3.jpg
